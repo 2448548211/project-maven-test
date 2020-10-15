@@ -26,6 +26,7 @@ hs_err_pid*
 
 
 # Project exclude paths
+.idea
 /target/
 .idea/dataSources/
 .idea/vcs.xml
